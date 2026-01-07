@@ -1,6 +1,6 @@
 # E-Learning Frontend (Fladev LMS) ✅
 
-**Mô tả ngắn:** Đây là giao diện frontend của một hệ thống E-Learning (LMS) được xây dựng bằng **React + Vite**, sử dụng **Tailwind CSS**, **Ant Design**, **Redux Toolkit** và kết nối tới một backend .NET qua API REST.
+**Overview:** Đây là giao diện frontend của một hệ thống E-Learning (LMS) được xây dựng bằng **React + Vite**, sử dụng **Tailwind CSS**, **Ant Design**, **Redux Toolkit** và kết nối tới một backend .NET qua API REST.
 
 ---
 
